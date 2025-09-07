@@ -1,0 +1,6 @@
+package com.rafay.tasbeeh
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity() {
+}
